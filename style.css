@@ -1,0 +1,106 @@
+*{
+  padding:0;
+  margin: 0;
+  }
+  /*Web body*/
+
+body{
+  background-color: #7b8478;
+  background-size: cover;
+  background-attachment: fixed;
+  height:100%;
+  }
+.pint{
+  text-align: center;
+  background-position: center;
+  background-size: 20px;
+}
+  /*H1 text*/
+h1{
+  text-align: center;
+  padding:10px;
+  margin: 1 auto 0 1;
+  background-color: #0f3723;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 50px;
+  display: block;
+  color: #F8FEFD;
+  }
+
+  /*Logo image*/
+.logo img{
+    position: absolute;
+    margin-top: 1px;
+    margin-left: 20px;
+    height: 110px;
+    margin-block: 35px;
+    }
+   /*Backgroun image drinks*/
+  .content1 img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    padding: 0px 0px 30px 40px;
+    width: 15%;
+    margin-top: 50px;
+  background-position: center;
+    }
+    .content1 p{
+    padding: 50px;
+    text-align: left;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    }
+.black-beer{
+  padding: 50px;
+    text-align: left;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+
+  /*Navegation*/
+nav ul{
+  background-color: #004c3f;
+  width: 100%;
+  list-style-type: none;
+  text-align: right;
+  }
+  nav li{
+    display:inline-flex
+    }
+    nav a{
+      text-decoration: none;
+      color:#F8FEFD;
+      padding:20px;
+      font-size: 20px;
+    }
+    nav li:hover{
+      background-color: #0f3723;
+    }
+
+  /*welcome page*/
+  .content p {
+    padding: 100px;
+    margin: 100px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+  /*drinks*/
+ 
+  }  
+    
+  }
+  /*footer*/
+  .footer p{
+    
+    background-size: 0;
+    background: #004c3f;
+    color:#F8FEFD;
+    padding: 10px;
+    font: 1px;
+    }
+    
+  
+  
+
+
+
