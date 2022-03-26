@@ -27,7 +27,7 @@ I went through so many issues while trying to create a website, gitpod also stop
 
 **Validator Testing**
 ![Screenshot 2022-03-26 at 20 47 13](https://user-images.githubusercontent.com/98408756/160256571-18b85302-56f7-42b2-86fe-4ddc21d178ec.png)
-![image](https://user-images.githubusercontent.com/98408756/160256601-4bee6277-aebf-440c-ba97-7d9a27e388ca.png)
+
 
 
 
@@ -48,6 +48,12 @@ even that i use to many ways to do it - follow intructions from so many example 
 
 it does not show on the preview. So, i fail here. 
 
+**Git Commande used**
+
+sudo apt-get update
+git add --all
+git status
+git push
 
 **Plagiarism**
 
